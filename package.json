@@ -1,0 +1,6 @@
+
+{
+  "dependencies": {
+    "module-test": "file:./study_submodule"
+  }
+}
