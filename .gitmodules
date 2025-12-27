@@ -1,0 +1,6 @@
+[submodule "modules/study_submodule"]
+	path = modules/study_submodule
+	url = https://github.com/bnam91/study_submodule.git
+[submodule "modules/study_submodule_02"]
+	path = modules/study_submodule_02
+	url = https://github.com/bnam91/study_submodule_02.git
